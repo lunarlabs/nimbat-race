@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <AlienRace.NimbatRace ParentName="Human">
+        <defName>gamerfox_nimbat</defName>
+        <label>Nimbat</label>
+        <description>nimbats.</description>
+
+        <alienRace>
+			<generalSettings></generalSettings>
+			<graphicPaths></graphicPaths>
+			<styleSettings></styleSettings>
+			<thoughtSettings></thoughtSettings>
+			<relationSettings></relationSettings>
+			<raceRestriction></raceRestriction>
+			<compatibility></compatibility>
+		</alienRace>
+
+    </AlienRace.NimbatRace>
+</Defs>

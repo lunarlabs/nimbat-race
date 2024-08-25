@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>gamerfox.NimbatRaceForHAR</packageId>
+    <Name>Nimbat Race for HAR</Name>
+    <author>gamerfox</author>
+    <description>TODO: We need a better description! Nimbats from Dust: an Elysian Tail by Dean "Noogy" Dodril.</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>erdelf.HumanoidAlienRaces</packageId>
+            <displayName>Humanoid Alien Races 2.0</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
