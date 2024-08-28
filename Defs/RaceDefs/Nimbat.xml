@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-    <AlienRace.NimbatRace ParentName="Human">
+    <AlienRace.ThingDef_AlienRace ParentName="Human">
         <defName>gamerfox_nimbat</defName>
         <label>Nimbat</label>
         <description>nimbats.</description>
 
         <alienRace>
-			<generalSettings></generalSettings>
+			<generalSettings>
+				<alienPartGenerator>
+					
+				</alienPartGenerator>
+			</generalSettings>
 			<graphicPaths></graphicPaths>
 			<styleSettings></styleSettings>
 			<thoughtSettings></thoughtSettings>
@@ -15,5 +19,5 @@
 			<compatibility></compatibility>
 		</alienRace>
 
-    </AlienRace.NimbatRace>
+    </AlienRace.ThingDef_AlienRace>
 </Defs>
