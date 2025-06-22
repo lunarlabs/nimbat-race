@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-    <AlienRace.ThingDef_AlienRace ParentName="Human">
+    <AlienRace.ThingDef_AlienRace ParentName="BasePawn">
         <defName>gamerfox_nimbat</defName>
         <label>Nimbat</label>
         <description>Small, winged, felid-like creatures with membranous wings and feline features.</description>
@@ -8,10 +8,10 @@
         <alienRace>
 			<generalSettings>
                 <canBeColonist>true</canBeColonist>
-                <canBeSlave>false</canBeSlave>
+                <canBeSlave>true</canBeSlave>
                 <humanlike>true</humanlike>
-                <lifeExpectancy>60</lifeExpectancy>
-                <baseHealthScale>1.2</baseHealthScale>
+                <lifeExpectancy>95</lifeExpectancy>
+                <baseHealthScale>0.8</baseHealthScale>
                 <bodySize>0.4</bodySize>
                 <headSize>1.2</headSize>
                 <ageGenerationCurve>
@@ -24,6 +24,8 @@
                 <alienPartGenerator>
                     <!-- Placeholder for body part generation settings -->
                 </alienPartGenerator>
+				<abilities>
+				</abilities>
             </generalSettings>
 			<graphicPaths></graphicPaths>
 			<styleSettings></styleSettings>
