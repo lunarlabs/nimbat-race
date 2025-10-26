@@ -22,14 +22,14 @@
 			<compatibility></compatibility>
 		</alienRace>
         <statBases>
-            <!-->Placeholder</!-->
+            <!-- Placeholder -->
             <MarketValue>2000</MarketValue>
             <Mass>20</Mass>
             <MoveSpeed>5.2</MoveSpeed>
-            <immunityGainSpeed>1.05</immunityGainSpeed>
-            <eatingSpeed>1.1</eatingSpeed>
-            <meatAmount>15</meatAmount>
-            <leatherAmount>30</leatherAmount>
+            <ImmunityGainSpeed>1.05</ImmunityGainSpeed>
+            <EatingSpeed>1.1</EatingSpeed>
+            <MeatAmount>15</MeatAmount>
+            <LeatherAmount>30</LeatherAmount>
         </statBases>
         <tools>
             <li>
