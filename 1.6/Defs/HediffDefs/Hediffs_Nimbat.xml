@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <HediffDef>
+        <defName>Nimbat_Hover</defName>
+        <label>hovering</label>
+        <description>A nimbat's natural ability to hover in place. They will ignore movement costs when moving.</description>
+        <hediffClass>HediffWithComps</hediffClass>
+        <scenarioCanAdd>false</scenarioCanAdd>
+        <allowMothballIfLowPriorityWorldPawn>true</allowMothballIfLowPriorityWorldPawn>
+        <maxSeverity>1.0</maxSeverity>
+        <isBad>false</isBad>
+        <comps>
+            <li Class = "VEF.AnimalBehaviours.HediffCompProperties_Floating"/>
+        </comps>
+    </HediffDef>
+</Defs>
