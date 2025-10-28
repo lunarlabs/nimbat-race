@@ -65,6 +65,20 @@
             <baseBodySize>0.6</baseBodySize>
             <baseHealthScale>0.8</baseHealthScale>
             <foodType>OmnivoreHuman</foodType>
+            <lifeStageAges>
+                <li>
+                    <def>HumanlikeBaby</def>
+                    <minAge>0</minAge>
+                </li>
+                <li>
+                    <def>HumanlikeChild</def>
+                    <minAge>3</minAge>
+                </li>
+                <li>
+                    <def>HumanlikeAdult</def>
+                    <minAge>13</minAge>
+                </li>
+            </lifeStageAges>
         </race>
 
     </AlienRace.ThingDef_AlienRace>
