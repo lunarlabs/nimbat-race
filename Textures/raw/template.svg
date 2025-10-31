@@ -9,11 +9,11 @@
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="template.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#111111"
@@ -25,16 +25,15 @@
      inkscape:document-units="px"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="1.578125"
-     inkscape:cx="255.0495"
-     inkscape:cy="65.267327"
+     inkscape:zoom="6.3125"
+     inkscape:cx="69.782178"
+     inkscape:cy="50.376238"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:page
+     inkscape:current-layer="layer1"><inkscape:page
        x="0"
        y="0"
        width="128"
@@ -42,8 +41,7 @@
        id="page1"
        margin="0"
        bleed="0"
-       inkscape:label="south" />
-    <inkscape:page
+       inkscape:label="south" /><inkscape:page
        x="138"
        y="0"
        width="128"
@@ -51,8 +49,7 @@
        id="page2"
        margin="0"
        bleed="0"
-       inkscape:label="east" />
-    <inkscape:page
+       inkscape:label="east" /><inkscape:page
        x="276"
        y="0"
        width="128"
@@ -60,8 +57,7 @@
        id="page3"
        margin="0"
        bleed="0"
-       inkscape:label="north" />
-    <inkscape:page
+       inkscape:label="north" /><inkscape:page
        x="414"
        y="0"
        width="128"
@@ -69,47 +65,62 @@
        id="page4"
        margin="0"
        bleed="0"
-       inkscape:label="west" />
-    <sodipodi:guide
+       inkscape:label="west" /><sodipodi:guide
        position="-10.29703,64"
        orientation="0,1"
        id="guide4"
        inkscape:locked="false"
        inkscape:label="h.midline"
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
        position="64,138"
        orientation="-1,0"
        id="guide5"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
        position="202,138"
        orientation="-1,0"
        id="guide6"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
        position="340,138"
        orientation="-1,0"
        id="guide7"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
        position="478,138"
        orientation="-1,0"
        id="guide8"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-  </sodipodi:namedview>
-  <defs
-     id="defs1" />
-  <g
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="66.772277,87.60396"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label="top"
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="82.851485,37.940594"
+       orientation="0,1"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label="chin"
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="44.918783,48.80404"
+       orientation="0,1"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label="neck"
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="75.947469,57.20531"
+       orientation="0,1"
+       id="guide9"
+       inkscape:locked="false"
+       inkscape:label="eye"
+       inkscape:color="rgb(0,134,229)" /></sodipodi:namedview><defs
+     id="defs1" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
-</svg>
+     id="layer1" /></svg>
