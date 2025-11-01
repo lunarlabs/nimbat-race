@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Male_Nimbat</defName>
+        <graphicPath>Things/Pawn/Humanlike/Nimbat/Heads/Nimbat_Male</graphicPath>
+        <beardOffsetXEast>0.075</beardOffsetXEast>
+        <gender>Male</gender>
+    </HeadTypeDef>
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Female_Nimbat</defName>
+        <graphicPath>Things/Pawn/Humanlike/Nimbat/Heads/Nimbat_Female</graphicPath>
+        <beardOffsetXEast>0.075</beardOffsetXEast>
+        <gender>Female</gender>
+    </HeadTypeDef>
+</Defs>

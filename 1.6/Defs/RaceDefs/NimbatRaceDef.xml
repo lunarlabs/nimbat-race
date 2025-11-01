@@ -9,7 +9,10 @@
 			<generalSettings>
                 <allowHumanBios>false</allowHumanBios>
                 <alienPartGenerator>
-                    <!-- Placeholder for body part generation settings -->
+                    <headTypes>
+                        <li>Male_Nimbat</li>
+                        <li>Female_Nimbat</li>
+                    </headTypes>
                 </alienPartGenerator>
 				<abilities>
 				</abilities>
